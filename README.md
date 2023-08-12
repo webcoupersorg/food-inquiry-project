@@ -54,5 +54,8 @@ DEADLINE FOR FULL-STACK DEVELOPERS: 18th of August, 2023.
 
 FAQ
 ----
+- Can Miss Ore have a dashboard where she can upload recipe? She wouldn't mind.
+- Are the recipes limited to Nigerian meals? If you want that, okay. However, you can easily utilize at least one RECIPE APIs. (only use the free version(s), please)
 
+  
 You can occassionally check this repository for responses to other recruits' questions.

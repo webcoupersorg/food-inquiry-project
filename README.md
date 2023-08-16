@@ -47,8 +47,8 @@ We expect you to use API(s)/services that are free to use.
 
 
 
-DEADLINE FOR FRONTEND DEVELOPERS: 16th of August, 2023.
-DEADLINE FOR FULL-STACK DEVELOPERS: 18th of August, 2023.
+DEADLINE FOR FRONTEND DEVELOPERS: 16th of August, 2023. 11:59 PM ⏰
+DEADLINE FOR FULL-STACK DEVELOPERS: 18th of August, 2023. 11:59 PM ⏰
 
 
 

@@ -54,8 +54,11 @@ DEADLINE FOR FULL-STACK DEVELOPERS: 18th of August, 2023. 11:59 PM ⏰
 
 FAQ
 ----
-- Can Miss Ore have a dashboard where she can upload recipe? She wouldn't mind.
-- Are the recipes limited to Nigerian meals? If you want that, okay. However, you can easily utilize at least one RECIPE APIs. (only use the free version(s), please)
+- _Can Miss Ore have a dashboard where she can upload recipe?_ She wouldn't mind.
+- _Are the recipes limited to Nigerian meals?_ If you want that, okay. However, you can easily utilize at least one RECIPE APIs. (only use the free version(s), please)
+search query will be coming from the frontend (you are implementing this as well), so whenever a user makes a search query, collect the input and save to the Recipe table. In order to make everything simple, create two views (one for recipe, one for restaurant), and store corresponding searches.
+- _So to be clear, I'm to create an endpoint to create the recipe and restaurant the do a search functionality. Or enable a search for this endpoint connected to external APIs?_ search query will be coming from the frontend - input field - (you are implementing this as well), so whenever a user makes a search query using this field, collect the input and save to the Recipe table. In order to make everything simple, create two views (one for recipe, the other for restaurant), and store corresponding searches. App flow: user registers -> user logs in -> landing page -> recipe page/restaurant page. Store search input in any of these pages.\
+When a user searches for a recipe on the recipe page (collect that search input and store it in the Recipe table), then continue with the flow of hitting an external API to return the searched recipe. Same as Restaurant.
 
-  
+
 You can occassionally check this repository for responses to other recruits' questions.
